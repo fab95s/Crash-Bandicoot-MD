@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="it.unical.igpe.logic.online" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/online" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="162" x="305" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="it.unical.igpe.logic.objects.blocks.GrassBlock" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/blocks/GrassBlock.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="147" x="2316" y="3747"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="3" language="java" name="it.unical.igpe.logic" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="125" x="507" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="4" language="java" name="it.unical.igpe.logic.threadpools.ThreadPoolTurtle" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/threadpools/ThreadPoolTurtle.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="145" x="2503" y="3747"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="it.unical.igpe.logic.objects.blocks.LandBlock" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/blocks/LandBlock.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="147" x="2835" y="3747"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="it.unical.igpe.graphics.editor.ToolsPanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/editor/ToolsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="711" width="219" x="1732" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="it.unical.igpe.logic.objects.Empty" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/Empty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="189" x="1522" y="1944"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="it.unical.igpe.graphics.MultiplayerGamePanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/MultiplayerGamePanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="513" width="197" x="3316" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="it.unical.igpe.logic.objects.boxs.LifeBox" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/boxs/LifeBox.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="140" x="3130" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="it.unical.igpe.logic.objects.boxs.NitroBox" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/boxs/NitroBox.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="140" x="3310" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="it.unical.igpe.logic.online.Client" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/online/Client.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="143" x="672" y="-548"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="it.unical.igpe.logic.LevelManager" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/LevelManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="154" x="1833" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="it.unical.igpe.graphics.ControlsPanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/ControlsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="178" x="2183" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="it.unical.igpe.logic.objects.Turtle" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/Turtle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="184" x="2503" y="3958"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="it.unical.igpe.graphics.MultiplayerPanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/MultiplayerPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="178" x="2401" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="it.unical.igpe.logic.SoundManager" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/SoundManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="146" x="3553" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="17" language="java" name="it.unical.igpe.managers" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/managers" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="156" x="855" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="18" language="java" name="it.unical.igpe.logic.objects.blocks" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/blocks" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="211" x="1051" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <interface id="19" language="java" name="it.unical.igpe.logic.interfaces.StaticObject" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/interfaces/StaticObject.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="189" x="1522" y="2461"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="20" language="java" name="it.unical.igpe.logic.objects.Coco" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/Coco.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="149" x="2027" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="it.unical.igpe.graphics.GameFrame" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/GameFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="196" x="2702" y="1944"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="it.unical.igpe.logic.objects.blocks.WorldBlock" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/blocks/WorldBlock.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="172" x="2642" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="it.unical.igpe.logic.AbstractStaticObject" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/AbstractStaticObject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="224" x="2938" y="1944"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="it.unical.igpe.graphics.LevelChooserPanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/LevelChooserPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="194" x="2619" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="25" language="java" name="it.unical.igpe.logic.objects" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="170" x="1302" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="26" language="java" name="it.unical.igpe.logic.objects.blocks.SteelBlock" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/blocks/SteelBlock.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="147" x="3022" y="3747"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="27" language="java" name="it.unical.igpe.logic.interfaces.ObjectChar" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/interfaces/ObjectChar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="212" x="1512" y="-548"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="28" language="java" name="it.unical.igpe.logic.objects.boxs.WumpaBox" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/boxs/WumpaBox.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="145" x="3739" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="it.unical.igpe.logic.threadpools.ThreadPool" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/threadpools/ThreadPool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="141" x="2461" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="it.unical.igpe.graphics.GamePanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/GamePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="100" x="3316" y="-548"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="it.unical.igpe.logic.AbstractDynamicObject" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/AbstractDynamicObject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="232" x="1772" y="2461"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="it.unical.igpe.logic.objects.Crystal" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/Crystal.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="152" x="2938" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="it.unical.igpe.logic.objects.blocks.WaterBlock" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/blocks/WaterBlock.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="184" x="3209" y="3747"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="34" language="java" name="it.unical.igpe.logic.interfaces" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/interfaces" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="186" x="1764" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="35" language="java" name="it.unical.igpe.logic.objects.boxs" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/boxs" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="201" x="1990" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="36" language="java" name="it.unical.igpe.graphics.EditorPanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/EditorPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="178" x="2853" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="37" language="java" name="it.unical.igpe.logic.interfaces.DynamicObject" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/interfaces/DynamicObject.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="129" x="1522" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="38" language="java" name="it.unical.igpe.graphics.editor.DrawPanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/editor/DrawPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="188" x="1294" y="1944"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="it.unical.igpe.logic.online.Server" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/online/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="171" x="2231" y="-548"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="it.unical.igpe.graphics.MenuPanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/MenuPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="178" x="3553" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="41" language="java" name="it.unical.igpe.graphics" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="148" x="2442" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="42" language="java" name="it.unical.igpe.logic.objects.Crash" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/objects/Crash.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="184" x="2216" y="3176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="it.unical.igpe.logic.KeyController" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/KeyController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="142" x="2183" y="1944"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="44" language="java" name="it.unical.igpe.logic.threadpools" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/threadpools" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="196" x="2630" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="45" language="java" name="it.unical.igpe.graphics.ImageManager" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/ImageManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1701" width="186" x="2866" y="-548"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="it.unical.igpe.managers.GameManager" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/managers/GameManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="164" x="3310" y="1944"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="it.unical.igpe.graphics.SingleplayerGamePanel" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/SingleplayerGamePanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="423" width="205" x="3071" y="1193"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="it.unical.igpe.logic.World" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/World.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="675" width="199" x="2718" y="2461"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="49" language="java" name="it.unical.igpe.graphics.editor" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/editor" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="184" x="3092" y="-548"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="50" language="java" name="it.unical.igpe.graphics.editor.ImagePoint" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/graphics/editor/ImagePoint.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="190" x="1292" y="2461"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="51" language="java" name="it.unical.igpe.logic.interfaces.Moovable" project="Crash Bandicoot MD" 
+    file="/Crash Bandicoot MD/src/it/unical/igpe/logic/interfaces/Moovable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="129" x="1123" y="2461"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="52">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="53" name="gameManager"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="55">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="37"/>  
+  </realization>  
+  <association id="56">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="57" name="gameFrame"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <bendpoint x="2968" y="2461"/>    
+    <bendpoint x="2865" y="3176"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="60" name="landBlock"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="63" name="gameFrame"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="66" name="coco"/>      
+      <multiplicity id="67" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="69" name="nitro"/>      
+      <multiplicity id="70" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="71">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="72" name="crash"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <bendpoint x="2430" y="3176"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="75" name="grassBlocks"/>      
+      <multiplicity id="76" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="78" name="gameFrame"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="80">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <generalization id="82">    
+    <bendpoint x="2687" y="2461"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <generalization id="83">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <association id="84">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="85" name="gameManager"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <bendpoint x="1741" y="1944"/>    
+    <bendpoint x="1741" y="2461"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="88" name="levelManager"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <bendpoint x="3522" y="2461"/>    
+    <bendpoint x="3522" y="3176"/>    
+    <bendpoint x="3522" y="3747"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="91" name="turtle"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="93">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <association id="94">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="95" name="points"/>      
+      <multiplicity id="96" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="98" name="worldBlocks"/>      
+      <multiplicity id="99" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="101" name="lifes"/>      
+      <multiplicity id="102" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="104" name="keyController"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="106">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="107">    
+    <bendpoint x="3319" y="2461"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="108" name="nitroBox"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="110">    
+    <bendpoint x="2947" y="2461"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <association id="111">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="112" name="sound"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="115" name="gameFrame"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="118" name="list"/>      
+      <multiplicity id="119" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <bendpoint x="3501" y="2461"/>    
+    <bendpoint x="3501" y="3176"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="121" name="waterBlock"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="124" name="gameFrame"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="127" name="drawPanel"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="130">    
+    <bendpoint x="3562" y="1944"/>    
+    <bendpoint x="3562" y="2461"/>    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="131" name="sound"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="133">    
+    <bendpoint x="3583" y="2461"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="134" name="wumpaBox"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <bendpoint x="2886" y="3176"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="137" name="steelBlocks"/>      
+      <multiplicity id="138" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="139">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="140">    
+    <end type="SOURCE" refId="36" navigable="false">      
+      <attribute id="141" name="gameFrame"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="144" name="crystal"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="146">    
+    <bendpoint x="3043" y="2461"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <association id="147">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="148" name="turtles"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="150">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="151" name="levelManager"/>      
+      <multiplicity id="152" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="153">    
+    <bendpoint x="3229" y="2461"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="154" name="lifeBox"/>      
+      <multiplicity id="155" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="156">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <association id="157">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="158" name="gameFrame"/>      
+      <multiplicity id="159" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="161" name="world"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="163">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <association id="164">    
+    <bendpoint x="2844" y="3176"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="165" name="landBlocks"/>      
+      <multiplicity id="166" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="167">    
+    <bendpoint x="2907" y="3176"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="168" name="waterBlocks"/>      
+      <multiplicity id="169" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="170">    
+    <bendpoint x="3347" y="2461"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <generalization id="171">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <realization id="172">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="173">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="174" name="enemys"/>      
+      <multiplicity id="175" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <bendpoint x="3480" y="2461"/>    
+    <bendpoint x="3480" y="3176"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="177" name="steelBlock"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="179">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="30"/>  
+  </generalization>  
+  <association id="180">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="181" name="wumpa"/>      
+      <multiplicity id="182" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="183">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="184" name="world"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="187" name="gameFrame"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="189">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <generalization id="190">    
+    <bendpoint x="1781" y="3747"/>    
+    <bendpoint x="1781" y="3176"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="31"/>  
+  </generalization>  
+  <association id="191">    
+    <bendpoint x="2034" y="2461"/>    
+    <bendpoint x="1802" y="3176"/>    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="192" name="grassBlock"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="194">    
+    <bendpoint x="3133" y="2461"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
